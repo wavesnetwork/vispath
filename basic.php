@@ -619,7 +619,7 @@ if (isset($templateData['tree']) && !empty($templateData['tree'])) { ?>
 
 var treeData = <?php echo $templateData['tree']; ?>;
 
-// ************** Generate the tree diagram using the d3.js library  *****************
+// ************** Generate the tree diagram  *****************
 var margin = {top: 20, right: 120, bottom: 20, left: 120},
     width = 960 - margin.right - margin.left,
     height = 500 - margin.top - margin.bottom;
