@@ -24,7 +24,7 @@ defined('SYSPATH') or die('No direct script access.');
 class Controller_RenderLabyrinth extends Controller_Template {
 	private $db;
 
-    public $template = 'home'; // Default
+    public $template = 'home'; //Default
 
     public function action_index() {
         $continue = true;
