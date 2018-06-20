@@ -14,7 +14,8 @@ The pathway visualizer tool extends OpenLabyrinth 3.1 and it is executed at the 
 
 Visit the following link:
 
-<i>Coming soon..</i>
+[WAVES Visual Pathway Demo](http://olab31.wavesnetwork.eu)
+
 
 # Installation
 
